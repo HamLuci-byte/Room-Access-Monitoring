@@ -9,12 +9,12 @@ Two pairs of sensors are incorporated (combination of laser emitter and foto sen
 
 Hardware
 
-Arduino UNO 
-Photo Sensor (2) 
-Laser Emitter (2) 
-Piezo buzzers 
-220 ohm resistor 
-470 ohm resistor 
-USB (A to B) 
-Breadboard 
-Jumper wire pack (M/M)&amp;(M/F)
+_Arduino UNO 
+_Photo Sensor (2) 
+_Laser Emitter (2) 
+_Piezo buzzers 
+_220 ohm resistor 
+_470 ohm resistor 
+_USB (A to B) 
+_Breadboard 
+_Jumper wire pack (M/M)&amp;(M/F)
