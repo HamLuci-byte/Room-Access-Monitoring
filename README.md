@@ -22,4 +22,5 @@ Hardware
 
 Circuit Diagram
 
-![Circuit Diagram](https://user-images.githubusercontent.com/61425791/174070611-a6c34544-6b0e-42a2-9731-cefd2cb20834.PNG)
+![circuit](https://user-images.githubusercontent.com/61425791/174098128-f3d6c907-aebe-4681-8a7a-981f923a991e.png)
+
