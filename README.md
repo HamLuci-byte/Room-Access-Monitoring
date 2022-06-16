@@ -18,3 +18,8 @@ Hardware
 -USB (A to B) 
 -Breadboard 
 -Jumper wire pack (M/M)&amp;(M/F)
+
+
+Circuit Diagram
+
+![Circuit Diagram](https://user-images.githubusercontent.com/61425791/174070611-a6c34544-6b0e-42a2-9731-cefd2cb20834.PNG)
