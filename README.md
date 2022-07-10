@@ -25,3 +25,12 @@ Circuit Diagram
 
 ![daiagram-hamza1-01](https://user-images.githubusercontent.com/61425791/174098279-827d4b5b-ca4a-4a40-83ac-f5700f3e4887.png)
 
+Hardware Pictures
+
+
+![WhatsApp Image 2022-07-10 at 9 50 51 PM](https://user-images.githubusercontent.com/61425791/178160131-6d92338d-9918-45c8-ba36-8172cbba5e3f.jpeg)
+![WhatsApp Image 2022-07-10 at 9 50 51 PM (2)](https://user-images.githubusercontent.com/61425791/178160132-a5a41f2a-3bde-4f30-a44a-c1ee8206df88.jpeg)
+![WhatsApp Image 2022-07-10 at 9 50 51 PM (1)](https://user-images.githubusercontent.com/61425791/178160133-afb68359-7f12-4248-8eb7-521193a183d5.jpeg)
+
+
+
